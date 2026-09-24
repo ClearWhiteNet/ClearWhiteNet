@@ -1,16 +1,162 @@
-## Hi there 👋
+![Static Badge](https://img.shields.io/badge/%F0%9F%A6%85%F0%9F%A6%85%F0%9F%A6%85%20WhiteNet%20%E2%80%93%20Threat%20Investigator%20%F0%9F%A6%85%F0%9F%A6%85%F0%9F%A6%85-red)
 
-<!--
-**ClearWhiteNet/ClearWhiteNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=ClearWhiteNet+%7C+Threat+Intel;OSINT+%7C+Purple+Team;ANDR%C3%B3MED+%5BPrivate%5D;NEBUL+%5BPublic%5D;Anonymity+as+a+shield" alt="Typing animation" />
+</p>
 
-Here are some ideas to get you started:
+> *"Knowing the enemy is the first step to defending yourself."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**OSINT Analyst & Digital Threat Hunter**  
+Research · Intelligence · Development
+
+---
+
+## Operational Profile
+
+Threat Intelligence Analyst with a primary focus on persistent threats, hacktivist coalitions, and organized cybercrime. Specialized in Open Source Intelligence (OSINT), Tactics, Techniques, and Procedures (TTP) analysis aligned with the MITRE ATT&CK framework, and the development of early warning systems for detecting malicious infrastructure.
+
+All operations are conducted strictly through open sources and publicly available data, in full compliance with legal and ethical standards. The approach is oriented toward producing **actionable intelligence** for the defense of critical infrastructure and national strategic interests.
+
+**Operational anonymity is maintained until formal engagement with institutional entities (SOCs, CSIRTs, Governments) is established, subject to NDA or formal contract.** Personal identifying information is disclosed exclusively upon verified institutional interest and confidentiality guarantees.
+
+---
+
+## Core Competencies
+
+| Area | Description |
+|------|-------------|
+| **🔍 Threat Intelligence Monitoring** | Continuous monitoring of threat actors, campaigns, and TTP evolution. |
+| **🎣 Phishing Campaign Analysis** | In-depth analysis of phishing campaigns, infrastructure tracking, and malware correlation. |
+| **👤 Threat Actor Profiling** | Attribution and behavioral profiling of APT groups, hacktivists, and cybercriminal syndicates. |
+| **🌐 OSINT Investigations** | Custom OSINT investigations across surface, deep, and dark web sources. |
+| **📊 Executive & Technical Reporting** | Tailored intelligence reports for both technical teams and executive leadership. |
+| **🤖 Python Automation for CTI/OSINT** | Development of scrapers, ETL pipelines, and automation workflows for intelligence gathering. |
+| **⚡ IOC Collection & Enrichment** | Aggregation, enrichment, and correlation of Indicators of Compromise (IoCs). |
+| **🛠️ Custom Tool Development** | Design and deployment of bespoke security tools for defensive and investigative purposes. |
+| **📡 Cybercriminal Ecosystem Monitoring** | Continuous surveillance of cybercriminal forums, Telegram channels, and underground markets. |
+| **🛡️ Strategic Security Consulting** | Advisory services for institutional cybersecurity strategy and risk management. |
+
+---
+
+## Technical Stack
+
+`Python` · `OSINT` · `CTI` · `Flask` · `APIs` · `Automation` · `MITRE ATT&CK` · `Git` · `Linux`
+
+---
+
+## Areas of Interest
+
+`Threat Intelligence` · `Passive OSINT` · `Pro-Russian Group Analysis` · `Killnet/NoName Tracking` · `LATAM Organized Crime` · `DDoS Infrastructure Mapping` ·  `Actor Attribution` ·  `Defensive Social Engineering` · `Intelligence Dashboards` · `Cyber Crime Analytics`
+
+---
+
+## Analysis Focus Areas
+
+| Domain | Description |
+|--------|-------------|
+| **Pro-Russian Hacktivism** | Active tracking of Killnet, NoName057(16), DarkStorm, RootSec, Electus, and BotnetKingdom. Comprehensive DDoS infrastructure and TTP mapping. |
+| **Organized Crime (LATAM & Europe)** | Analysis of drug trafficking, extortion, homicides, and gender-based violence patterns using passive OSINT on digital press (Diabolic suite). |
+| **Malicious Infrastructure** | Domain, IP, SSL certificate, WHOIS, JARM fingerprinting, and IOC correlation for actor attribution (ShinyHunters, LAPSUS$, etc.). |
+| **Advanced OSINT** | Mass data extraction from Telegram, Discord, forums, and digital press. Geolocation, digital footprint analysis, and public data correlation. |
+| **Threat Prevention** | Early warning systems (Andrómeda) and monitoring dashboards for botnets and aggressive scanning (Nebula). |
+| **Defensive Social Engineering** | Phishing attack detection and simulation for training and reporting of severe crimes (pedophilia, terrorism). |
+
+| Role | Description |
+|------|-------------|
+| **🔍 Threat Intelligence Analyst** | Monitoring, analysis, and reporting on actors and campaigns (APT, hacktivism, organized crime). |
+| **🛡️ Purple Team / Threat Hunter** | Proactive detection, IoC correlation, adversary emulation, and defense gap identification. |
+| **🌐 OSINT Investigator** | Digital footprint analysis, infrastructure geolocation, and public record correlation for legal or corporate cases. |
+| **🤖 Automation Developer (CTI/OSINT)** | Development of scrapers, dashboards, API integrations, and ETL pipelines for intelligence. |
+| **📊 Cybercrime Analyst** | Analysis of criminal patterns in LATAM, Europe, and Spanish-speaking regions. |
+| **🧠 Security Consultant / Advisor** | Strategic cyber defense advisory, risk management, and incident response planning. |
+
+---
+
+## Technologies & Tools
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **IDE / Environments** | ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| **OSINT / Security** | ![VirusTotal](https://img.shields.io/badge/VirusTotal-4285F4?style=flat&logo=virustotal&logoColor=white) ![Shodan](https://img.shields.io/badge/Shodan-FF6600?style=flat&logo=shodan&logoColor=white) ![Censys](https://img.shields.io/badge/Censys-00AEEF?style=flat&logo=censys&logoColor=white) ![GreyNoise](https://img.shields.io/badge/GreyNoise-000000?style=flat&logo=greynoise&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat&logo=nmap&logoColor=white) ![AlienVault](https://img.shields.io/badge/AlienVault-00AEEF?style=flat&logo=alienvault&logoColor=white) ![MISP](https://img.shields.io/badge/MISP-8A2BE2?style=flat&logo=misp&logoColor=white) ![OpenCTI](https://img.shields.io/badge/OpenCTI-FFA500?style=flat&logo=opencti&logoColor=white) ![TheHive](https://img.shields.io/badge/TheHive-FF6600?style=flat&logo=thehive&logoColor=white) ![YARA](https://img.shields.io/badge/YARA-000000?style=flat&logo=yara&logoColor=white) |
+| **Threat Intelligence Platforms** | ![OpenCTI](https://img.shields.io/badge/OpenCTI-FFA500?style=flat&logo=opencti&logoColor=white) ![GreyNoise](https://img.shields.io/badge/GreyNoise-000000?style=flat&logo=greynoise&logoColor=white) ![Censys](https://img.shields.io/badge/Censys-00AEEF?style=flat&logo=censys&logoColor=white) ![MISP](https://img.shields.io/badge/MISP-8A2BE2?style=flat&logo=misp&logoColor=white) ![AlienVault OTX](https://img.shields.io/badge/AlienVault_OTX-00AEEF?style=flat&logo=alienvault&logoColor=white) ![RiskIQ](https://img.shields.io/badge/RiskIQ-FF6F00?style=flat&logo=riskiq&logoColor=white) ![Recorded Future](https://img.shields.io/badge/Recorded_Future-00B4D8?style=flat&logo=recordedfuture&logoColor=white) |
+| **Scraping & Automation** | ![Scrapy](https://img.shields.io/badge/Scrapy-60C839?style=flat&logo=scrapy&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=python&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-3776AB?style=flat&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2B8E5A?style=flat&logo=playwright&logoColor=white) |
+| **Visualization & Web** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) |
+| **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Termux](https://img.shields.io/badge/Termux-000000?style=flat&logo=termux&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-2E9AFE?style=flat&logo=parrot-security&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) |
+| **OSINT Platforms** | ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) ![Twitter/X](https://img.shields.io/badge/Twitter_X-000000?style=flat&logo=x&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white) |
+| **Knowledge Domains** | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Computer Science](https://img.shields.io/badge/Computer_Science-007ACC?style=flat&logo=python&logoColor=white) ![Electrical Engineering](https://img.shields.io/badge/Electrical_Engineering-FFB300?style=flat&logo=raspberry-pi&logoColor=white) |
+| **Core Methodologies** | `MITRE ATT&CK` · `TTPs` · `IoCs` ·  `Diamond Model` · `Cyber Kill Chain` · `Intelligence Driven Defense` · `DevOps` · `CI/CD` |
+| **Specializations** |  `Botnet Detection` · `Malware Analysis` · `Phishing Analysis` · `Social Engineering Defense` · `Fraud Detection` · `Crime Analysis` · `Investigative Journalism` · `Threat Actor Profiling` · `Takedown Coordination` |
+
+---
+
+## Methodologies & Practices
+
+`MITRE ATT&CK` · `TTPs` · `IoCs` · `Threat Intelligence` · `Passive OSINT` · `Cyber Crime Analytics` · `DevOps` · `CI/CD Pipelines` · `Diamond Model` · `Cyber Kill Chain` 
+
+---
+
+*Note: These reports are interconnected. For instance, the Russian hacktivist ecosystem (CIBERWAR, Killnet, NoName) feeds into the CTI RUSSIAN and CTI GLOBAL reports, while regional criminal analyses (Di4bolic series, Keltic Kraken) provide ground-level OSINT validation for broader geopolitical threat assessments.*
+
+---
+
+## Work Philosophy
+
+- **Anonymity as a Shield:** Identity protection is maintained strictly for operational security, not as a weapon.
+- **Open Source for Education:** Public tools (Nebula, Diabolic series) are released to educate and empower the community.
+- **Trust is Earned Through Results:** Credibility is built on the quality and accuracy of intelligence outputs, not certifications or public posturing.
+- **Legal & Ethical Compliance:** All activities are conducted within legal frameworks, using only open-source and publicly available data.
+
+---
+
+## Availability
+
+- **Strategic Consulting** for institutional and governmental entities.
+- **Threat Intelligence Analysis** on persistent threats, hacktivism, and organized crime.
+- **Automation Development** for CTI and OSINT workflows.
+- **SOC & CSIRT Support** in threat hunting, IOC correlation, and incident response.
+
+---
+
+## Contact (Secure Channels)
+
+For operational security reasons, personal data and direct contacts are provided exclusively during formal interviews or after signing a non-disclosure agreement (NDA) with institutional entities.
+
+| Channel | Handle |
+|--------|--------|
+| **⌨️ Telegram** | `Private` |
+| **🐦 Twitter/X** | `@BatIntelSec` \|
+| **☣️ VirusTotal** | `BatIntelSec` |
+| **📧 Email** | `.` |
+| **💼 LinkedIn** | `Not used` |
+
+
+---
+
+
+## Background
+
+The journey began as an independent researcher operating in hostile digital environments. Over time, this experience was transformed into scalable prevention frameworks and actionable intelligence platforms.
+
+Today, the focus remains on monitoring persistent threat groups, developing early detection systems, and publishing actionable intelligence for the defense of critical infrastructure. The background provides a unique understanding of adversary TTPs, cultivated through practical experience rather than formal coursework.
+
+Self-taught, with a strong emphasis on operational security, the creator of **Andrómeda** (private counter-intelligence system) and **Nebula** (public demo). Specializations include botnet detection, pro-Russian group tracking, DDoS infrastructure mapping, and persistent threat analysis.
+
+---
+
+**🔍 Open to collaboration** – Threat Intelligence, OSINT, Purple Team, Automation.
+
+---
+
+> *Producing actionable intelligence through rigorous OSINT and TTP analysis.*
+
+---
+
+**Maintained by:** ClearWhiteNet– Threat Security · Purple Team · Intelligence · Defense
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ClearWhiteNet&color=00ff00&style=flat&label=Profile+Views" />
+</p>
+
