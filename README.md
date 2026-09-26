@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=ClearWhiteNet+%7C+Threat+Intel;OSINT+%7C+Purple+Team;ANDR%C3%B3MED+%5BPrivate%5D;NEBUL+%5BPublic%5D;Anonymity+as+a+shield" alt="Typing animation" />
 </p>
 
+![WhiteNet](268162817.jpeg)
+
 > *"Knowing the enemy is the first step to defending yourself."*
 
 **OSINT Analyst & Digital Threat Hunter**  
