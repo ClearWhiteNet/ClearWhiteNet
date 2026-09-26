@@ -50,6 +50,8 @@ All operations are conducted strictly through open sources and publicly availabl
 
 `Threat Intelligence` · `Passive OSINT` · `Pro-Russian Group Analysis` · `Killnet/NoName Tracking` · `LATAM Organized Crime` · `DDoS Infrastructure Mapping` ·  `Actor Attribution` ·  `Defensive Social Engineering` · `Intelligence Dashboards` · `Cyber Crime Analytics`
 
+![WhiteNet](OpNoname05716.jpg)
+
 ---
 
 ## Analysis Focus Areas
