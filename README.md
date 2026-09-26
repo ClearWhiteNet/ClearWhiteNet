@@ -122,8 +122,8 @@ All operations are conducted strictly through open sources and publicly availabl
 - **Strategic Consulting** for institutional and governmental entities.
 - **Threat Intelligence Analysis** on persistent threats, hacktivism, and organized crime.
 - **Automation Development** for CTI and OSINT workflows.
-- **SOC & CSIRT Support** in threat hunting, IOC correlation, and incident response.
-
+- **SOC & CSIRT Support** in threat hunting, IOC correlation, infografy and incident response.
+-  
 ---
 
 ## Contact (Secure Channels)
