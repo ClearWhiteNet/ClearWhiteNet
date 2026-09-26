@@ -12,6 +12,12 @@
 **OSINT Analyst & Digital Threat Hunter**  
 Research · Intelligence · Development
 
+<p align="center">
+  <a href="https://contributors.gitlab.com/users/Condor2026">
+    <img src="https://contributors.gitlab.com/users/Condor2026/banner.svg" alt="GitLab Contributor Stats" />
+  </a>
+</p>
+
 ---
 
 ## Operational Profile
