@@ -99,12 +99,12 @@ All operations are conducted strictly through open sources and publicly availabl
 ## Methodologies & Practices
 
 `MITRE ATT&CK` · `TTPs` · `IoCs` · `Threat Intelligence` · `Passive OSINT` · `Cyber Crime Analytics` · `DevOps` · `CI/CD Pipelines` · `Diamond Model` · `Cyber Kill Chain` 
-
 ![WhiteNet](LUNARISSECINFOGRAFY.jpg) 
 
 ---
 
 *Note: These reports are interconnected. For instance, the Russian hacktivist ecosystem (CIBERWAR, Killnet, NoName) feeds into the CTI RUSSIAN and CTI GLOBAL reports, while regional criminal analyses (Di4bolic series, Keltic Kraken) provide ground-level OSINT validation for broader geopolitical threat assessments.*
+![WhiteNet](NoNmaeDossier.png) 
 
 ---
 
